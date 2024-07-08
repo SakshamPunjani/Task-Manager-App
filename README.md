@@ -1,4 +1,21 @@
 # Task-Manager-App
+A simple console-based task manager app that allows you to add, remove, update, and view tasks.
+
+Features:
+
+Add tasks
+Remove tasks
+Update tasks
+View tasks
+Exit the application
+
+Usage:
+
+Enter the number of tasks you want to add initially.
+Follow the menu to perform various operations.
+
+
+
 def task():
     tasks = []
     print("---------------WELCOME TO TASK MANAGER APP--------------------")
